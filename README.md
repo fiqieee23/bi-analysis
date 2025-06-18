@@ -55,7 +55,10 @@ These projects were created for academic purposes and can be used as templates f
 df = pd.read_excel("your_path_here.xlsx")
 3. **Run the script or Jupyter Notebook** to perform analysis and see the results.
 
-✅ Example Use Case
+---
+
+## ✅ Example Use Case
+
 These projects can help:
 
 - Understand classification techniques for BI
@@ -64,6 +67,7 @@ These projects can help:
 
 - Learn how to preprocess and evaluate real datasets
 
-✍️ Author
+## ✍️ Author
+
 Afiq Haikal
 Business Intelligence Assignment – UniSZA
