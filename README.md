@@ -67,6 +67,8 @@ These projects can help:
 
 - Learn how to preprocess and evaluate real datasets
 
+---
+
 ## ✍️ Author
 
 Afiq Haikal
