@@ -73,4 +73,3 @@ These projects can help:
 
 Afiq Haikal
 Business Intelligence Assignment – UniSZA
-![Screenshot 2025-06-05 154747](https://github.com/user-attachments/assets/d3e9e195-b7dd-4800-ad12-615670661bdc)
